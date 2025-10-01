@@ -1,5 +1,5 @@
 public class Hello {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // main method
     sayHello(); // runs the sayHello method without parameters
     sayGoodbye(); // runs the sayGoodbye method without parameters
     sayGoodMorning(); // runs the sayGoodMorning method without parameters

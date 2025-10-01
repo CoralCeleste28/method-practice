@@ -13,13 +13,13 @@ public class CompareNumbers {
         }
     }
 
-    public static boolean isPositive(double number) { // isPositive method with a double as a parameter. The boolean means this method will have a true or false output
+    public static boolean isPositive(double number) {
+        // isPositive method with a double as a parameter. The boolean means this method will have a true or false output
         if (number > 0) { // if number is greater than zero
             return true; //then the output of the method is true
         } else { //if the number is anything else
             return false; // then make the output false
         }
-
     }
 
 
