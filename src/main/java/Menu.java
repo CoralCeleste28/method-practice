@@ -1,11 +1,11 @@
 public class Menu {
     public static void main(String[] args) {
-        diplayMenu();
+        diplayMenu(); // runs the displayMenu method without parameters
         diplayMenu();
 
     }
 
-    public static void diplayMenu() {
+    public static void diplayMenu() { // method named displayMenu
         System.out.println("""
                 === MENU ===
                 1. Coffee - $3.99
